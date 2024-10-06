@@ -12,17 +12,17 @@
 ## 🏆 GitHub 统计
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=lansonsam&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=lansonsam&theme=transparent&hide_border=true" />
 </p>
 <br/>
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=贡献图" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lansonsam&theme=github-compact&hide_border=true&area=true&custom_title=贡献图" />
 </p>
 <br/>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lansonsam&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lansonsam&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,mermaid,sqlite,matlab">
 </p>
