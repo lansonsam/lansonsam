@@ -43,28 +43,32 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaokang2022!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=你好%20朋友!&fontSize=90&fontAlign=50&fontAlignY=30&desc=我是%20lansonsam!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 ---
 
-## 👋 Hello, I'm Lansonsam!
+## 👋 你好，我是 Lansonsam!
 
-- 💻 I'm passionate about **Modern C++**, software development, and creating cool projects!
-- 📚 Currently diving deeper into C++ and other exciting programming technologies.
-- 🛠️ Love building with: **C++, Python, JavaScript**.
-- 🧑‍💻 Open to collaborations on **open-source projects** and **cool dev ideas**.
+- 💻 我对 **Modern C++**、软件开发和创造有趣的项目充满热情！
+- 📚 目前正在深入学习 C++ 和其他有趣的编程技术。
+- 🛠️ 喜欢使用 **C++，Python，JavaScript** 来构建项目。
+- 🧑‍💻 欢迎与我合作 **开源项目** 和 **有趣的开发创意**。
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 GitHub 统计
 
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" />
+</p>
 <br/>
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=贡献图" />
+</p>
 <br/>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
@@ -73,22 +77,7 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 
 ---
 
-## 🎯 Social Links
-
-- [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-lansonsam-yellow)](https://www.zhihu.com/people/o4ze4r)
-- [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
-
----
-
-## 🚀 Interests and Fun Facts
-
-- 🌟 Enjoy learning **Modern C++** techniques.
-- 🎨 Passionate about **二次元** and creativity.
-- 💬 Always up for a chat about **programming** or **life**!
-
----
-
-## 🖼️ Profile
+## 🖼️ 个人头像
 
 ![头像](https://img.lansonsam.com/wallhaven-5gvpg7_1920x1080.png)
 
@@ -97,7 +86,7 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=再见&fontSize=90&fontAlign=50&fontAlignY=70&desc=希望你的程序没有Bug!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=lansonsam.
