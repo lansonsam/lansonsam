@@ -26,12 +26,9 @@
 <br/>
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,mermaid,sqlite,matlab">
 </p>
----
-## 🖼️ 壁纸
 
 ![头像](https://img.lansonsam.com/wallhaven-5gvpg7_1920x1080.png)
 
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=再见&fontSize=90&fontAlign=50&fontAlignY=70&desc=希望你的程序没有Bug!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
