@@ -1,39 +1,9 @@
-<!-- MIT License -->
-<!--
-MIT License
-
-Copyright (c) 2024 Xiaokang2022
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-ATTENTION:
-Source repository: https://github.com/Xiaokang2022/Xiaokang2022
--->
-
 <div id="title" align=center>
 
 ![Modern C++ template][github-sub-title:img]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lansonsam&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-lansonsam-yellow)](https://www.zhihu.com/people/o4ze4r)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
@@ -47,14 +17,7 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 </p>
 
 ---
-
-## 👋 你好，我是 Lansonsam!
-
-- 💻 我对 **Modern C++**、软件开发和创造有趣的项目充满热情！
-- 📚 目前正在深入学习 C++ 和其他有趣的编程技术。
-- 🛠️ 喜欢使用 **C++，Python，JavaScript** 来构建项目。
-- 🧑‍💻 欢迎与我合作 **开源项目** 和 **有趣的开发创意**。
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lansonsam&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 ---
 
 ## 🏆 GitHub 统计
