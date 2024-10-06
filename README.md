@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=你好%20朋友!&fontSize=90&fontAlign=50&fontAlignY=30&desc=我是%20lansonsam!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=hello%20friend!&fontSize=90&fontAlign=50&fontAlignY=30&desc=我是%20lansonsam!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 
@@ -27,9 +27,7 @@
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,mermaid,sqlite,matlab">
 </p>
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lansonsam&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
----
-## 🖼️ 个人头像
+## 🖼️ 壁纸
 
 ![头像](https://img.lansonsam.com/wallhaven-5gvpg7_1920x1080.png)
 
