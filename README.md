@@ -26,9 +26,9 @@
 <br/>
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,mermaid,sqlite,matlab">
 </p>
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lansonsam&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 ---
-
 ## 🖼️ 个人头像
 
 ![头像](https://img.lansonsam.com/wallhaven-5gvpg7_1920x1080.png)
