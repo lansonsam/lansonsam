@@ -1,37 +1,70 @@
-<div id="title" align=center>
+<div align="center">
 
+# Hi, I'm **lansonsam**
 
+[![GitHub followers](https://img.shields.io/github/followers/lansonsam?style=for-the-badge&logo=github&label=Followers)](https://github.com/lansonsam?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/lansonsam?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars)](https://github.com/lansonsam?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=lansonsam&color=blue&style=for-the-badge)](https://github.com/lansonsam)
 
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello%20Friend!&fontSize=90&fontAlign=50&fontAlignY=30&desc=我是%20lansonsam!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+---
 
+## About Me  
+-  Interested in **Programming, Algorithms, and Open Source**  
+-  Exploring **AI, Systems, and Software Engineering**  
+-  Goal: Build impactful tools and share knowledge  
 
-## 🏆 GitHub 统计
+---
 
-<p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=lansonsam&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=lansonsam&theme=transparent&hide_border=true" />
-</p>
-<br/>
-<p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lansonsam&theme=github-compact&hide_border=true&area=true&custom_title=贡献图" />
-</p>
-<br/>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lansonsam&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lansonsam&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,mermaid,sqlite,matlab">
-</p>
+## GitHub Stats  
 
-![头像](https://img.lansonsam.com/wallhaven-5gvpg7_1920x1080.png)
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lansonsam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=lansonsam&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lansonsam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)  
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=再见&fontSize=90&fontAlign=50&fontAlignY=70&desc=希望你的程序没有Bug!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+</div>
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=lansonsam.
+---
+
+## Achievements  
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lansonsam&theme=tokyonight&no-frame=true&row=1&column=6)  
+
+</div>
+
+---
+
+## Skills  
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=py,cpp,cs,java,html,css,js,ts,sqlite,matlab,latex,md,git,linux)
+
+</div>
+
+---
+
+## Snake Contribution Graph  
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/lansonsam/lansonsam/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## Connect with Me  
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail)](mailto:your_email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=for-the-badge&logo=google-chrome)](https://your-blog-link.com)
+
+</div>
