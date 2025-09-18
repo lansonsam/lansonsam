@@ -42,7 +42,7 @@
 
 ---
 
-## 🎮 Steam  
+##  Steam  
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 🎵 Now Playing on Spotify  
+##  Now Playing on Spotify  
 
 <div align="center">
 
