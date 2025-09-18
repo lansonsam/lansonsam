@@ -46,10 +46,10 @@
 
 <div align="center">
 
-[![Steam Profile](https://img.shields.io/badge/Steam-Profile-000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/lansonsam)
+[![Steam Profile](https://img.shields.io/badge/Steam-Profile-000?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561198862773271)
 
-<!-- Steam 统计卡片 (需要第三方服务比如 anuraghazra 或外部 API) -->
-![Steam card](https://steam-stat.vercel.app/api?profileName=your_steam_id)
+![Steam card](https://steam-stat.vercel.app/api?profileName=76561198862773271)
+
 
 </div>
 
@@ -65,14 +65,3 @@
 
 ---
 
-## Connect with Me  
-
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/en/5/57/University_of_Pennsylvania_shield.svg" alt="UPenn Logo" width="80"/>
-
-[![Email](https://img.shields.io/badge/Email-UPenn-red?style=for-the-badge&logo=gmail)](mailto:your_upenn_email@upenn.edu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=for-the-badge&logo=google-chrome)](https://your-blog-link.com)
-
-</div>
