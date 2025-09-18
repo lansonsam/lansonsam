@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- 一言（随机短句） -->
+![Hitokoto](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 # Hi, I'm **lansonsam**
 
 [![GitHub followers](https://img.shields.io/github/followers/lansonsam?style=for-the-badge&logo=github&label=Followers)](https://github.com/lansonsam?tab=followers)
@@ -11,9 +14,9 @@
 ---
 
 ## About Me  
--  Interested in **Programming, Algorithms, and Open Source**  
--  Exploring **AI, Systems, and Software Engineering**  
--  Goal: Build impactful tools and share knowledge  
+- 💻 Interested in **Programming, Algorithms, and Open Source**  
+- 🌱 Exploring **AI, Systems, and Software Engineering**  
+- 🎯 Goal: Build impactful tools and share knowledge  
 
 ---
 
@@ -53,7 +56,30 @@
 
 <div align="center">
 
-![Snake animation]([https://raw.githubusercontent.com/lansonsam/lansonsam/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/lansonsam/lansonsam/refs/heads/output/github-snake-dark.svg))
+![Snake animation](https://raw.githubusercontent.com/lansonsam/lansonsam/output/github-snake.svg)
+
+</div>
+
+---
+
+## 🎮 Steam  
+
+<div align="center">
+
+[![Steam Profile](https://img.shields.io/badge/Steam-Profile-000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/your_steam_id)
+
+<!-- Steam 统计卡片 (需要第三方服务比如 anuraghazra 或外部 API) -->
+![Steam card](https://steam-stat.vercel.app/api?profileName=your_steam_id)
+
+</div>
+
+---
+
+## 🎵 Now Playing on Spotify  
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
 
 </div>
 
@@ -63,8 +89,10 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail)](mailto:your_email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+<img src="https://upload.wikimedia.org/wikipedia/en/5/57/University_of_Pennsylvania_shield.svg" alt="UPenn Logo" width="80"/>
+
+[![Email](https://img.shields.io/badge/Email-UPenn-red?style=for-the-badge&logo=gmail)](mailto:your_upenn_email@upenn.edu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
 [![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=for-the-badge&logo=google-chrome)](https://your-blog-link.com)
 
 </div>
