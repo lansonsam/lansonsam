@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- 一言（随机短句） -->
-![Hitokoto](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- 双语语录 -->
+![Chinese Quote](https://readme-han.vercel.app/api?lang=zh&type=horizontal&theme=dark)
+![English Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # Hi, I'm **lansonsam**
 
@@ -10,6 +11,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=lansonsam&color=blue&style=for-the-badge)](https://github.com/lansonsam)
 
 </div>
+
 
 ---
 
