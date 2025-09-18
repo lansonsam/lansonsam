@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- 双语语录 -->
-![Chinese Quote](https://readme-han.vercel.app/api?lang=zh&type=horizontal&theme=dark)
 ![English Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # Hi, I'm **lansonsam**
@@ -13,26 +11,6 @@
 </div>
 
 
----
-
-## About Me  
-- 💻 Interested in **Programming, Algorithms, and Open Source**  
-- 🌱 Exploring **AI, Systems, and Software Engineering**  
-- 🎯 Goal: Build impactful tools and share knowledge  
-
----
-
-## GitHub Stats  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lansonsam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=lansonsam&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lansonsam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)  
-
-</div>
-
----
 
 ## Achievements  
 
@@ -68,7 +46,7 @@
 
 <div align="center">
 
-[![Steam Profile](https://img.shields.io/badge/Steam-Profile-000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/your_steam_id)
+[![Steam Profile](https://img.shields.io/badge/Steam-Profile-000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/lansonsam)
 
 <!-- Steam 统计卡片 (需要第三方服务比如 anuraghazra 或外部 API) -->
 ![Steam card](https://steam-stat.vercel.app/api?profileName=your_steam_id)
