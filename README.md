@@ -53,7 +53,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/lansonsam/lansonsam/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://raw.githubusercontent.com/lansonsam/lansonsam/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/lansonsam/lansonsam/refs/heads/output/github-snake-dark.svg))
 
 </div>
 
