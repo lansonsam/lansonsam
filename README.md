@@ -50,6 +50,9 @@
 
 ![Steam card](https://steam-stat.vercel.app/api?profileName=76561198862773271)
 
+![Recently Played](https://steam-card.vercel.app/api/recently-played?steamid=76561198862773271)  
+
+
 
 </div>
 
