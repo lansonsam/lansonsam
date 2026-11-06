@@ -5,6 +5,8 @@
 
 <br/>
 
+<img align="right" width="230" src="https://raw.githubusercontent.com/lansonsam/lansonsam/output/anime.svg" alt="daily illustration">
+
 I take things apart to see how they work, then build small tools that do one job well.
 Mostly around **reverse engineering**, **networking**, and the odd **iOS / Android** hack.
 
@@ -30,7 +32,12 @@ Mostly around **reverse engineering**, **networking**, and the odd **iOS / Andro
 
 `Python` `Go` `TypeScript` `Kotlin` `C++` `C#` `Vue` &nbsp;·&nbsp; `Cloudflare` `Linux` `Android` `iOS`
 
+<br clear="right"/>
 <br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lansonsam/lansonsam/metrics/metrics.svg" alt="metrics">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lansonsam/lansonsam/output/snake-gray-dark.svg">

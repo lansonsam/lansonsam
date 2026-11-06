@@ -15,6 +15,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate Snake files
         uses: Platane/snk@v3
         with:
@@ -25,6 +27,12 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/snake-gray.svg?color_snake=#5F6368&color_dots=#EEEEEC,#D6D7D9,#B5B8BC,#8E9298,#5F6368&color_dot_border=#E4E5E7
             dist/snake-gray-dark.svg?color_snake=#C9CCD1&color_dots=#1C1E22,#33363B,#4E5258,#6E737A,#9AA0A6&color_dot_border=#15171B
+
+      - name: Fetch daily anime illustration
+        continue-on-error: true
+        run: |
+          pip install --quiet pillow
+          python scripts/anime_card.py dist
 
       - name: Push Snake files to output branch
         uses: crazy-max/ghaction-github-pages@v4
