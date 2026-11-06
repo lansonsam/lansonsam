@@ -32,7 +32,8 @@ jobs:
         continue-on-error: true
         run: |
           pip install --quiet pillow
-          python scripts/anime_card.py dist
+          python scripts/anime_card.py anime-out
+          sudo cp anime-out/* dist/   # dist/ is root-owned (written by the snk container)
 
       - name: Push Snake files to output branch
         uses: crazy-max/ghaction-github-pages@v4
