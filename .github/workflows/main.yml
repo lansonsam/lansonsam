@@ -1,15 +1,15 @@
-name: Generate Snake
+name: Generate profile images
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 每天运行一次（UTC 00:00）
-  workflow_dispatch:       # 手动触发
+    - cron: "0 0 * * *"   # 每天 UTC 00:00（北京时间 08:00）
+  workflow_dispatch:
   push:
     branches:
       - main
 
 permissions:
-  contents: write   # ✅ 关键，允许写入仓库
+  contents: write
 
 jobs:
   build:
@@ -17,25 +17,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake files
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/snake-gray.svg?color_snake=#5F6368&color_dots=#EEEEEC,#D6D7D9,#B5B8BC,#8E9298,#5F6368&color_dot_border=#E4E5E7
-            dist/snake-gray-dark.svg?color_snake=#C9CCD1&color_dots=#1C1E22,#33363B,#4E5258,#6E737A,#9AA0A6&color_dot_border=#15171B
+            dist/snake-lilac.svg?color_snake=#8C7DBA&color_dots=#F1EFF5,#DCD6EA,#C3B8DE,#A596CC,#7E6FAE&color_dot_border=#E7E3EF
+            dist/snake-lilac-dark.svg?color_snake=#C7BCEB&color_dots=#1E1C25,#352F4A,#4E446E,#6E5F9A,#9A8AC8&color_dot_border=#17161C
 
-      - name: Fetch daily anime illustration
-        continue-on-error: true
+      - name: Generate header, status and quest cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pip install --quiet pillow
-          python scripts/anime_card.py anime-out
-          sudo cp anime-out/* dist/   # dist/ is root-owned (written by the snk container)
+          python scripts/profile_gen.py gen-out
+          sudo cp gen-out/* dist/   # dist/ is root-owned (written by the snk container)
 
-      - name: Push Snake files to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

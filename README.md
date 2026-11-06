@@ -1,49 +1,28 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="lansonsam">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lansonsam/lansonsam/output/header-dark.svg">
+  <img src="https://raw.githubusercontent.com/lansonsam/lansonsam/output/header-light.svg" width="100%" alt="lansonsam — workshop log">
 </picture>
 
-<br/>
-
-<img align="right" width="230" src="https://raw.githubusercontent.com/lansonsam/lansonsam/output/anime.svg" alt="daily illustration">
-
-I take things apart to see how they work, then build small tools that do one job well.
-Mostly around **reverse engineering**, **networking**, and the odd **iOS / Android** hack.
-
-在逆向、网络和小工具之间慢慢打磨。
-
-<br/>
-
-**Now**
-
-- Tinkering with jailbreak tooling for iOS 17 (roothide)
-- Running self-hosted services on Cloudflare Workers
-- Writing occasionally on my blog
-
-**Selected work**
-
-| | |
-|:--|:--|
-| [**TrollStore-roothide**](https://github.com/lansonsam/TrollStore-roothide) | TrollStore Lite build for roothide jailbreaks on iOS 17 |
-| [**anylink**](https://github.com/lansonsam/anylink) | SSL VPN server compatible with AnyConnect clients |
-| [**fuwari**](https://github.com/lansonsam/fuwari) | My personal blog, built on Astro |
-
-**Toolbox**
-
-`Python` `Go` `TypeScript` `Kotlin` `C++` `C#` `Vue` &nbsp;·&nbsp; `Cloudflare` `Linux` `Android` `iOS`
-
-<br clear="right"/>
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lansonsam/lansonsam/metrics/metrics.svg" alt="metrics">
-</p>
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lansonsam/lansonsam/output/snake-gray-dark.svg">
-  <img src="https://raw.githubusercontent.com/lansonsam/lansonsam/output/snake-gray.svg" width="100%" alt="contribution graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lansonsam/lansonsam/output/status-dark.svg">
+  <img src="https://raw.githubusercontent.com/lansonsam/lansonsam/output/status-light.svg" width="100%" alt="status">
 </picture>
+
+<br/><br/>
+
+<p align="center">
+<a href="https://github.com/lansonsam/TrollStore-roothide"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lansonsam/lansonsam/output/quest-1-dark.svg"><img width="32%" src="https://raw.githubusercontent.com/lansonsam/lansonsam/output/quest-1-light.svg" alt="TrollStore-roothide"></picture></a>
+<a href="https://github.com/lansonsam/anylink"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lansonsam/lansonsam/output/quest-2-dark.svg"><img width="32%" src="https://raw.githubusercontent.com/lansonsam/lansonsam/output/quest-2-light.svg" alt="anylink"></picture></a>
+<a href="https://github.com/lansonsam/fuwari"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lansonsam/lansonsam/output/quest-3-dark.svg"><img width="32%" src="https://raw.githubusercontent.com/lansonsam/lansonsam/output/quest-3-light.svg" alt="fuwari"></picture></a>
+</p>
 
 <br/>
 
-<sub>[Steam](https://steamcommunity.com/profiles/76561198862773271) &nbsp;·&nbsp; thanks for stopping by.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lansonsam/lansonsam/output/snake-lilac-dark.svg">
+  <img src="https://raw.githubusercontent.com/lansonsam/lansonsam/output/snake-lilac.svg" width="100%" alt="contribution graph">
+</picture>
+
+<p align="center"><sub>✦ &nbsp;<a href="https://steamcommunity.com/profiles/76561198862773271">Steam</a> &nbsp;·&nbsp; thanks for stopping by &nbsp;✦</sub></p>
