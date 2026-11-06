@@ -1,70 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="lansonsam">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="lansonsam">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1F1712"/>
-      <stop offset="1" stop-color="#2E2219"/>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#3A3D43" opacity=".7"/>
+    </pattern>
+    <linearGradient id="fadeR" x1="0" x2="1">
+      <stop offset="0" stop-color="#16181C" stop-opacity="1"/>
+      <stop offset=".55" stop-color="#16181C" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#16181C" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="rule" x1="0" x2="1">
-      <stop offset="0" stop-color="#C9A46E" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#C9A46E" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="ember">
-      <stop offset="0" stop-color="#F08A5A"/>
-      <stop offset="1" stop-color="#F08A5A" stop-opacity="0"/>
-    </radialGradient>
-    <clipPath id="card"><rect width="1200" height="320" rx="16"/></clipPath>
+    <clipPath id="c"><rect width="1200" height="260" rx="18"/></clipPath>
   </defs>
   <style>
-    .serif{font-family:'Noto Serif SC','Source Han Serif SC','Songti SC','STSong','SimSun',Georgia,'Times New Roman',serif}
-    .grain{fill:none;stroke:#C9A27A;stroke-width:1}
-    .smoke{fill:none;stroke:#B9A690;stroke-width:1.3;stroke-linecap:round;stroke-dasharray:150;stroke-dashoffset:150;opacity:0;animation:rise 7s ease-in-out infinite}
-    .s2{animation-delay:2.4s}.s3{animation-delay:4.8s}
-    .glow{animation:glow 3s ease-in-out infinite}
-    .fade{opacity:0;animation:fadein 1.6s ease-out forwards}
-    .d1{animation-delay:.2s}.d2{animation-delay:.6s}.d3{animation-delay:1s}.d4{animation-delay:1.4s}
-    @keyframes rise{0%{stroke-dashoffset:150;opacity:0}25%{opacity:.45}75%{opacity:.25}100%{stroke-dashoffset:-150;opacity:0}}
-    @keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}
-    @keyframes fadein{from{opacity:0}to{opacity:1}}
+    .sans{font-family:'Inter','SF Pro Display','Segoe UI','PingFang SC','Microsoft YaHei','Helvetica Neue',Arial,sans-serif}
+    .f{opacity:0;animation:in 1.2s ease-out forwards}
+    .d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}
+    .orb{transform-origin:960px 130px;animation:spin 60s linear infinite}
+    .orb2{transform-origin:960px 130px;animation:spin 90s linear infinite reverse}
+    @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    @keyframes spin{to{transform:rotate(360deg)}}
   </style>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="260" fill="#16181C"/>
+    <rect width="1200" height="260" fill="url(#dots)"/>
+    <rect width="760" height="260" fill="url(#fadeR)"/>
 
-  <g clip-path="url(#card)">
-    <rect width="1200" height="320" fill="url(#bg)"/>
-    <g class="grain">
-      <path opacity=".07" d="M-20 38 C 220 22, 460 62, 720 40 S 1080 18, 1220 44"/>
-      <path opacity=".05" d="M-20 70 C 260 58, 500 92, 760 72 S 1060 52, 1220 78"/>
-      <path opacity=".08" d="M-20 118 C 240 100, 520 140, 780 116 S 1100 96, 1220 124"/>
-      <path opacity=".04" d="M-20 160 C 300 148, 560 182, 820 160 S 1080 140, 1220 166"/>
-      <path opacity=".07" d="M-20 212 C 280 196, 540 236, 800 210 S 1100 192, 1220 218"/>
-      <path opacity=".05" d="M-20 254 C 260 242, 520 278, 780 256 S 1080 236, 1220 262"/>
-      <path opacity=".08" d="M-20 298 C 300 284, 560 318, 820 296 S 1100 278, 1220 304"/>
-      <ellipse opacity=".07" cx="760" cy="236" rx="70" ry="14"/>
-      <ellipse opacity=".06" cx="760" cy="236" rx="46" ry="9"/>
-      <ellipse opacity=".05" cx="760" cy="236" rx="22" ry="4"/>
+    <g fill="none" stroke="#5A5E65">
+      <g class="orb">
+        <circle cx="960" cy="130" r="92" stroke-opacity=".7"/>
+        <circle cx="1052" cy="130" r="3" fill="#A3A7AE" stroke="none"/>
+      </g>
+      <g class="orb2">
+        <circle cx="960" cy="130" r="62" stroke-opacity=".55" stroke-dasharray="2 6"/>
+        <circle cx="960" cy="68" r="2.2" fill="#80848B" stroke="none"/>
+      </g>
+      <circle cx="960" cy="130" r="30" stroke-opacity=".45"/>
     </g>
-    <rect x="18" y="18" width="1164" height="284" rx="10" fill="none" stroke="#C9A46E" stroke-opacity=".28"/>
   </g>
 
-  <text class="serif fade d1" x="92" y="104" font-size="13" letter-spacing="7" fill="#B8956A">· PORTFOLIO OF ·</text>
-  <text class="serif fade d2" x="88" y="178" font-size="74" font-style="italic" fill="#EADCC7">lansonsam</text>
-  <rect class="fade d2" x="92" y="204" width="260" height="1.2" fill="url(#rule)"/>
-  <text class="serif fade d3" x="92" y="246" font-size="22" letter-spacing="5" fill="#CDB394">木有纹理，码有章法</text>
-  <text class="serif fade d4" x="92" y="278" font-size="15" font-style="italic" letter-spacing="1" fill="#A88D70">Quiet tools, carved slowly — grained with care.</text>
-
-  <g transform="translate(980 0)">
-    <path class="smoke s1" d="M0 150 C -8 130, 12 114, 2 94 S -10 60, 6 36"/>
-    <path class="smoke s2" d="M0 150 C 10 128, -12 112, -2 90 S 14 62, -4 34"/>
-    <path class="smoke s3" d="M0 150 C -4 134, 8 120, 0 102 S -6 70, 2 48"/>
-    <line x1="0" y1="152" x2="0" y2="262" stroke="#A07C58" stroke-width="2.4" stroke-linecap="round"/>
-    <circle class="glow" cx="0" cy="151" r="8" fill="url(#ember)"/>
-    <circle cx="0" cy="151" r="2" fill="#E0704A"/>
-    <path d="M-38 262 Q 0 296 38 262 Z" fill="#5C4231"/>
-    <ellipse cx="0" cy="262" rx="40" ry="5" fill="#7A5A41"/>
-    <rect x="-16" y="284" width="32" height="4" rx="2" fill="#5C4231" opacity=".8"/>
-  </g>
-
-  <g transform="translate(1080 214)">
-    <rect width="50" height="50" rx="5" fill="#9E4535" opacity=".9"/>
-    <rect x="4" y="4" width="42" height="42" rx="3" fill="none" stroke="#EADCC7" stroke-opacity=".6"/>
-    <text class="serif" x="25" y="35" font-size="28" text-anchor="middle" fill="#EADCC7">檀</text>
-  </g>
+  <text class="sans f d1" x="84" y="92" font-size="13" letter-spacing="4" fill="#6E727A">HELLO, I'M</text>
+  <text class="sans f d2" x="80" y="160" font-size="66" font-weight="300" letter-spacing="-1" fill="#E6E6E3">lansonsam</text>
+  <text class="sans f d3" x="84" y="200" font-size="17" letter-spacing=".5" fill="#8B8F96">Reverse engineering  ·  Networking  ·  Small, sharp tools</text>
 </svg>
