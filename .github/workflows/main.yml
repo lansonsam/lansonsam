@@ -23,6 +23,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/snake-sandal.svg?color_snake=#8B5E3C&color_dots=#EFE6D8,#DCC3A1,#C49A6C,#A0714A,#6E4A2F&color_dot_border=#E4D6C2
+            dist/snake-sandal-dark.svg?color_snake=#D4B08A&color_dots=#2A211B,#5A3F2B,#7E5A3C,#A87D52,#D4B08A&color_dot_border=#1E1611
 
       - name: Push Snake files to output branch
         uses: crazy-max/ghaction-github-pages@v4
