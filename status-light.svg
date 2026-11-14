@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="status">
+  <style>text{font-family:'Noto Sans SC','PingFang SC','Microsoft YaHei','Segoe UI','Inter','Helvetica Neue',Arial,sans-serif}</style>
+  <rect x=".5" y=".5" width="1199" height="249" rx="18" fill="#F7F6FA" stroke="#DCD8E6"/>
+  <text x="48" y="54" font-size="12" letter-spacing="6" fill="#8C7DBA">◇ STATUS</text>
+  <text x="48" y="90" font-size="15" fill="#4B4858">职业 <tspan fill="#8E8AA0" dx="8">Reverse Engineer</tspan></text>
+  <text x="1152" y="64" text-anchor="end" font-size="40" font-weight="200" fill="#4B4858"><tspan font-size="14" letter-spacing="3" fill="#8C7DBA">LV.</tspan>5</text>
+  <line x1="610" y1="112" x2="610" y2="222" stroke="#DCD8E6"/>
+  
+  <text x="48" y="137" font-size="14" fill="#8E8AA0">逆向</text>
+  <rect x="128" y="132" width="400" height="4" rx="2" fill="#E6E2EF"/>
+  <rect x="128" y="132" width="0" height="4" rx="2" fill="#B4A9D6">
+    <animate attributeName="width" from="0" to="328" dur="1.4s" begin="0.20s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="560" y="137" text-anchor="end" font-size="12" fill="#8E8AA0">82</text>
+  <text x="48" y="167" font-size="14" fill="#8E8AA0">网络</text>
+  <rect x="128" y="162" width="400" height="4" rx="2" fill="#E6E2EF"/>
+  <rect x="128" y="162" width="0" height="4" rx="2" fill="#B4A9D6">
+    <animate attributeName="width" from="0" to="296" dur="1.4s" begin="0.35s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="560" y="167" text-anchor="end" font-size="12" fill="#8E8AA0">74</text>
+  <text x="48" y="197" font-size="14" fill="#8E8AA0">工具</text>
+  <rect x="128" y="192" width="400" height="4" rx="2" fill="#E6E2EF"/>
+  <rect x="128" y="192" width="0" height="4" rx="2" fill="#B4A9D6">
+    <animate attributeName="width" from="0" to="264" dur="1.4s" begin="0.50s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="560" y="197" text-anchor="end" font-size="12" fill="#8E8AA0">66</text>
+  <text x="48" y="227" font-size="14" fill="#8E8AA0">二次元</text>
+  <rect x="128" y="222" width="400" height="4" rx="2" fill="#E6E2EF"/>
+  <rect x="128" y="222" width="0" height="4" rx="2" fill="#B4A9D6">
+    <animate attributeName="width" from="0" to="360" dur="1.4s" begin="0.65s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="560" y="227" text-anchor="end" font-size="12" fill="#8E8AA0">90</text>
+  
+  <text x="650" y="124" font-size="10" letter-spacing="3" fill="#8E8AA0">REPOS  <tspan letter-spacing="1">仓库</tspan></text>
+  <text x="650" y="156" font-size="28" font-weight="300" fill="#4B4858">6</text>
+  <text x="910" y="124" font-size="10" letter-spacing="3" fill="#8E8AA0">STARS  <tspan letter-spacing="1">星标</tspan></text>
+  <text x="910" y="156" font-size="28" font-weight="300" fill="#4B4858">16</text>
+  <text x="650" y="190" font-size="10" letter-spacing="3" fill="#8E8AA0">FOLLOWERS  <tspan letter-spacing="1">关注者</tspan></text>
+  <text x="650" y="222" font-size="28" font-weight="300" fill="#4B4858">10</text>
+  <text x="910" y="190" font-size="10" letter-spacing="3" fill="#8E8AA0">CONTRIBUTIONS  <tspan letter-spacing="1">今年贡献</tspan></text>
+  <text x="910" y="222" font-size="28" font-weight="300" fill="#4B4858">45</text>
+</svg>
